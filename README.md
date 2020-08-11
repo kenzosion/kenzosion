@@ -1,3 +1,7 @@
+<img src="githubimage.png"
+     alt="Image icon"
+     style="float: left; margin-right: 10px;" />
+
 ### Hello there 👋, I'm Haur (pronounced as Hal).
 
 ## I'm a self-taught Software Developer!
