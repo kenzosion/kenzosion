@@ -1,4 +1,4 @@
-<img src="githubimage.png"
+<img src="/githubimage.png"
      alt="Image icon"
      style="float: left; margin-right: 10px;" />
 
