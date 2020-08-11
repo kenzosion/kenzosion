@@ -1,8 +1,5 @@
-<img src="/githubimage.png"
-     alt="Image icon"
-     style="float: left; margin-right: 10px;" />
 
-### Hello there 👋, I'm Haur (pronounced as Hal).
+## Hello there 👋, I'm Haur (pronounced as Hal).
 
 ## I'm a self-taught Software Developer!
 I am a highly motivated self-taught Software Developer (React, Redux, Python and Django) and Web Analyst (Google Analytics), with several years of private and public sectors experience.
