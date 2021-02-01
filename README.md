@@ -1,8 +1,8 @@
 
 ## Hello there 👋, I'm Haur (pronounced as Hal).
 
-## I'm a self-taught Software Developer!
-I am a highly motivated self-taught Software Developer (React, Redux, Python and Django) and Web Analyst (Google Analytics), with several years of private and public sectors experience.
+## I'm a Frontend Developer!
+I am a highly motivated self-taught Frontend Developer (React, Redux, Nodejs and Typescript) and Web Analyst (Google Analytics), with several years of private and public sectors experience.
 
 My background has helped me develop a systematic and analytical approach to problem solving. When working autonomously I keep current by researching and networking with peers - often discussing ideas and issues on stackoverflow and github.
 
@@ -18,6 +18,7 @@ Using my broad experience I have created a range of beautifully responsive websi
 <img align="left" alt="CSS3" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="`Typescript" width="60px" src="https://miro.medium.com/max/1795/1*mn6bOs7s6Qbao15PMNRyOA.png" />
 
 <br />
 <br />
@@ -25,7 +26,6 @@ Using my broad experience I have created a range of beautifully responsive websi
 
 
 ### Secondary languages:
-<img align="left" alt="`Typescript" width="60px" src="https://miro.medium.com/max/1795/1*mn6bOs7s6Qbao15PMNRyOA.png" />
 <img align="left" alt="Node.js" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="python" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg.png" />
 
