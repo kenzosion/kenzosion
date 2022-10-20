@@ -6,8 +6,7 @@ I am a highly motivated Frontend Developer (React, Redux, GraphQL, Angular, Node
 
 My background has helped me develop a systematic and analytical approach to problem solving. When working autonomously I keep current by researching and networking with peers - often discussing ideas and issues on stackoverflow and github.
 
-Using my broad experience I have created a range of beautifully responsive websites with the user experience a priority. You can view these examples on my personal [website](https://haurkang.netlify.app/).
-
+Using my broad experience I have created a range of beautifully responsive websites with the user experience a priority. 
 <br />
 
 ### Primary languages:
