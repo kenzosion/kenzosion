@@ -6,7 +6,6 @@ I am a highly motivated Software Engineer/ Engineering Manager (React, GraphQL, 
 
 My background has helped me develop a systematic and analytical approach to problem solving. When working autonomously I keep current by researching and networking with peers - often discussing ideas and issues on stackoverflow and github.
 
-Using my broad experience I have created a range of beautifully responsive websites with the user experience a priority. 
 <br />
 
 
